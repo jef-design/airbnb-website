@@ -7,7 +7,7 @@ function Booking() {
     return (
         <BookingSection>
             <BookingHeader>
-                <h3></h3>
+                <h3>Just booked in Philippines</h3>
             </BookingHeader>
             <BookingWrapper>
                  <BookCard guestrent="https://a0.muscache.com/im/pictures/907f2cd7-26f2-442a-b723-87f37250d2fb.jpg?im_w=480" 
@@ -23,7 +23,7 @@ function Booking() {
                bookdesc="Maya Maya RestHouse" bookprice="₱5,050 / night" />
             </BookingWrapper>
             
-            <Button >Show (2000+)</Button>
+            <Button >Show (2000+) <i class='bx bxs-chevron-right'></i> </Button>
             
             <TravelContainer>
             <h2>
